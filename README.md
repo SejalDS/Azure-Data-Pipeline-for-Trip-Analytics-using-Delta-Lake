@@ -112,7 +112,3 @@ Fact & Dimension modeling implemented:
 - Build Power BI dashboard layer on Gold tables
 
 ---
-
-## 👤 Author
-Abhishek Shinde  
-Azure | Databricks | Data Engineering
